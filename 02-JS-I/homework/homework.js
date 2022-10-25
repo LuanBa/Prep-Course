@@ -2,7 +2,9 @@
 
 // Crea una variable "string", puede contener lo que quieras:
 const nuevaString = "hola";
+
 // commit 1 
+//commit 2
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = "9";
